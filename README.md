@@ -1,4 +1,4 @@
-### Oie! Eu sou a Karen
+### Oie! Eu sou a Karen, estudante de tecnologia.
 
 - 🌱 Estudando Front-End
 - 💬 Contate-me no email: karenrodriigues1@gmail.com
