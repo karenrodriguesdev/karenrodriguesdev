@@ -2,7 +2,7 @@
 
 - 🌱 Estudando Front-End
 - 💬 Contate-me no email: karenrodriigues1@gmail.com
-
+<br>
 <div align="center">
   <a href="https://github.com/karenrodriguesx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karenrodriguesx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
