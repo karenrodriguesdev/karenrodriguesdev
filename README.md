@@ -1,6 +1,6 @@
 ### Oie! Eu sou a Karen, estudante de tecnologia.
 
-- 🌱 Estudando Back-End
+- 🌱 Estudando Back-End com foco em Java
 - 💬 Contate-me no email: karenrodriigues1@gmail.com
 <br>
 <div align="center">
