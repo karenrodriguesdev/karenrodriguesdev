@@ -2,7 +2,7 @@
 
 - 🌱 Estudando Back-End com foco em Java
 - 📚 Cursando Análise e Desenvolvimento de Sistemas
-- 💬 Contate-me no email: karenrodriigues1@gmail.com
+- 💬 Entre em contato por e-mail: karenrodriigues1@gmail.com
 <br>
 <div align="center">
   <a href="https://github.com/karenrodriguesx">
@@ -17,9 +17,10 @@
   
   <img align="center" alt="Karen-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Karen-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Karen-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+  <img align="center" alt="Karen-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <!--img align="center" alt="Karen-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"-->
   
-  <img align="right" alt="Karen-pic" height="130" style="border-radius:100px;" src="https://share-cdn.picrew.me/shareImg/org/202201/1201734_W6PimVFr.png">
+
 </div>
 
   ## 
