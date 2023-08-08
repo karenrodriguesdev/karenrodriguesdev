@@ -6,8 +6,11 @@
 <br>
 <div align="center">
   <a href="https://github.com/karenrodriguesx">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=karenrodriguesx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karenrodriguesx&layout=compact&langs_count=7&theme=dracula"/>
+ <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=karenrodriguesx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>-->
+ 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=karenrodriguesx&show_icons=true&theme=transparent&text_color=b05574&title_color=b05574&icon_color=d18e8f"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karenrodriguesx&layout=compact&langs_count=7&theme=transparent&text_color=b05574&title_color=b05574&icon_color=d18e8f"/>
+    
 </div><br>
   
 <div style="display: inline_block" align="center"><br>
@@ -15,12 +18,12 @@
   <!--<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-->
   <!--<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">-->
   
-  <img align="center" alt="Karen-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Karen-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Karen-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <!--img align="center" alt="Karen-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"-->
+  <img align="center" alt="Karen-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
+  <img align="center" alt="Karen-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+  <img align="center" alt="Karen-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Karen-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+  <!--<img align="center" alt="Karen-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-plain.svg">-->
   
-
 </div>
 
   ## 
