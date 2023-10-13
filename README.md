@@ -1,6 +1,6 @@
 ### Oie! Eu sou a Karen, estudante de tecnologia.
 
-- 🌱 Estudando Back-End com foco em Java
+- 🌱 Estagiária em Desenvolvimento FullStack
 - 📚 Cursando Análise e Desenvolvimento de Sistemas
 - 💬 Entre em contato por e-mail: karenrodriigues1@gmail.com
 <br>
@@ -20,8 +20,11 @@
   
   <img align="center" alt="Karen-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
   <img align="center" alt="Karen-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+  <img align="center" alt="Karen-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
   <img align="center" alt="Karen-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Karen-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+  <img align="center" alt="Karen-postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
+  <img align="center" alt="Karen-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg">
+  
   
   <!--<img align="center" alt="Karen-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-plain.svg">-->
   
