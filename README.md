@@ -1,6 +1,6 @@
 ### Oie! Eu sou a Karen, estudante de tecnologia.
 
-- 🌱 Estagiária em Desenvolvimento FullStack
+- 🌱 Estagiária em Desenvolvimento FullStack Java + Angular
 - 📚 Cursando Análise e Desenvolvimento de Sistemas
 - 💬 Entre em contato por e-mail: karenrodriigues1@gmail.com
 <br>
@@ -19,6 +19,7 @@
   <!--<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">-->
   
   <img align="center" alt="Karen-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Karen-spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
   <img align="center" alt="Karen-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
   
   <img align="center" alt="Karen-postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
