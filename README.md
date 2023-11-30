@@ -10,7 +10,7 @@
 <div align="center">
   <a href="https://github.com/karenrodriguesx">
   <img width="45%" height="180px" src="https://github-readme-stats.vercel.app/api?username=karenrodriguesx&show_icons=true&theme=transparent&text_color=F4F4F4&title_color=9370DB&icon_color=9370DB">
-   <img width="45%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karenrodriguesx&layout=compact&langs_count=7&theme=transparent&text_color=F4F4F4&title_color=9370DB&icon_color=9370DB">
+   <img width="45%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karenrodriguesx&layout=compact&langs_count=7&theme=transparent&text_color=F4F4F4&title_color=9370DB&icon_color=9370DB">
 </div>
 <br>
 
