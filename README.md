@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem+Vindo(a)!;Hello,+Be+Welcome!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9370DB&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem+Vindo(a)!;Hello,+Be+Welcome!;)](https://git.io/typing-svg)
 
 ## Sobre mim 📖
 
@@ -9,8 +9,8 @@
 
 <div align="center">
   <a href="https://github.com/karenrodriguesx">
-  <img width="45%" height="180px" src="https://github-readme-stats.vercel.app/api?username=karenrodriguesx&show_icons=true&theme=transparent&text_color=F4F4F4&title_color=9370DB&icon_color=9370DB">
-   <img width="45%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karenrodriguesx&layout=compact&langs_count=7&theme=transparent&text_color=F4F4F4&title_color=9370DB&icon_color=9370DB">
+  <img width="45%" height="180px" src="https://github-readme-stats.vercel.app/api?username=karenrodriguesx&show_icons=true&theme=transparent&text_color=800080&title_color=9370DB&icon_color=9370DB">
+   <img width="45%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karenrodriguesx&layout=compact&langs_count=7&theme=transparent&text_color=800080&title_color=9370DB&icon_color=9370DB">
 </div>
 <br>
 
