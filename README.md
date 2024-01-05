@@ -2,8 +2,9 @@
 
 ## Sobre mim 📖
 
-- 🌱 Estagiária em Desenvolvimento FullStack Java + Angular
-- 📚 Cursando Análise e Desenvolvimento de Sistemas
+- 🌱 Estagiária em Desenvolvimento Full Stack Java + Angular
+- 🎓 Graduada em Análise e Desenvolvimento de Sistemas
+- 📚 Cursando Ciência da Computação
 - 💬 Entre em contato por e-mail: karenrodrigues.dev@gmail.com
 <br>
 
