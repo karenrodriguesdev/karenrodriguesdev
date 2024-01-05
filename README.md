@@ -4,7 +4,7 @@
 
 - 🌱 Estagiária em Desenvolvimento FullStack Java + Angular
 - 📚 Cursando Análise e Desenvolvimento de Sistemas
-- 💬 Entre em contato por e-mail: karenrodriigues1@gmail.com
+- 💬 Entre em contato por e-mail: karenrodrigues.dev@gmail.com
 <br>
 
 <div align="center">
