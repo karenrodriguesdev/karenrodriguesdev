@@ -24,7 +24,7 @@
   <img align="center" alt="Karen-postgresql" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
   <img align="center" alt="Karen-docker" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg"> -->
   
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,bootstrap,typescript,javascript,postgresql,docker,git" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,spring,angular,bootstrap,typescript,javascript,postgresql,docker,git" />
 
 </div>
 
