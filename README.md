@@ -32,5 +32,5 @@
   
 <div align="center">
   <a target="_blank" href="mailto:karenrodrigues.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-1C1C1C?style=for-the-badge&logo=Gmail&logoColor=9370DB"></img></a>
-  <a href="https://www.linkedin.com/in/karen-rodriguesdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=9370DB"></a>
+  <a href="https://www.linkedin.com/in/karenrodriguesdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=9370DB"></a>
 </div>
